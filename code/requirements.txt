@@ -1,0 +1,20 @@
+# Core scraping dependencies
+selenium==4.23.1
+webdriver-manager==4.0.2
+
+# Parsing and data handling
+beautifulsoup4==4.12.3
+lxml==5.3.0
+pandas==2.2.2
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Progress bars
+tqdm==4.66.5
+
+# Interactive widgets for Jupyter
+ipywidgets==8.1.5
+
+# Jupyter Notebook/Lab
+jupyter==1.0.0
